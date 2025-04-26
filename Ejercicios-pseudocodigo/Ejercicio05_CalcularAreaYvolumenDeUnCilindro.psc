@@ -22,7 +22,7 @@ Proceso Ejercicio05_CalcularAreaYvolumenDeUnCilindro
 	areaTotal <- areaLateral + (2 * areaBase);
 	volumen <- areaBase * altura;
 	
-	Escribir "El area del cilindro es: " , areaTotal;
-	Escribir "El volúmen del cilindro es: " , volumen;
+	Escribir "El area del cilindro es: " , areaTotal , "cm²"; //superindice "²": alt + 0178
+	Escribir "El volúmen del cilindro es: " , volumen , "cm³"; //superindice "³": alt + 0179
 	
 FinProceso

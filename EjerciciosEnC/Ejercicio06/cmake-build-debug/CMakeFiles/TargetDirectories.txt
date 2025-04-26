@@ -1,0 +1,3 @@
+C:/Users/chris/OneDrive/Escritorio/Programacion-itu/EjerciciosEnC/Ejercicio06/cmake-build-debug/CMakeFiles/Ejercicio06.dir
+C:/Users/chris/OneDrive/Escritorio/Programacion-itu/EjerciciosEnC/Ejercicio06/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/chris/OneDrive/Escritorio/Programacion-itu/EjerciciosEnC/Ejercicio06/cmake-build-debug/CMakeFiles/rebuild_cache.dir
