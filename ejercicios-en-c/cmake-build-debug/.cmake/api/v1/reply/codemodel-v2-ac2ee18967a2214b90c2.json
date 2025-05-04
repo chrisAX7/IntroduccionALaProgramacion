@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.31"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "ejercicios_en_c",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ejercicios_en_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ejercicios_en_c-Debug-c64d0a2e9c73be9d9136.json",
+					"name" : "ejercicios_en_c",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/Chris/Desktop/MemoryCard/Desarrollo Software Ituzaing\u00f3/Primer a\u00f1o/Introducci\u00f3n a la Programaci\u00f3n/IntroduccionALaProgramacion/ejercicios-en-c/cmake-build-debug",
+		"source" : "C:/Users/Chris/Desktop/MemoryCard/Desarrollo Software Ituzaing\u00f3/Primer a\u00f1o/Introducci\u00f3n a la Programaci\u00f3n/IntroduccionALaProgramacion/ejercicios-en-c"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
