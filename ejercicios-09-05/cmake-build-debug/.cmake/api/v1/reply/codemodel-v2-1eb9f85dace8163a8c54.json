@@ -1,0 +1,114 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.31"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "ejercicios_09_05",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "bisiesto::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-bisiesto-Debug-66fe68f15a691c86b3df.json",
+					"name" : "bisiesto",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ejercicios_09_05::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ejercicios_09_05-Debug-afd686b415c33f477eaf.json",
+					"name" : "ejercicios_09_05",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "factorial::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-factorial-Debug-24474d38aad084394c6a.json",
+					"name" : "factorial",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "mayorDeTres::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-mayorDeTres-Debug-5a10496fbf55ee774654.json",
+					"name" : "mayorDeTres",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "numeroPositivo::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-numeroPositivo-Debug-ffb4c3cc449289372c67.json",
+					"name" : "numeroPositivo",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "perimetroRectangulo::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-perimetroRectangulo-Debug-c29a6d07d37132e8f0e3.json",
+					"name" : "perimetroRectangulo",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "tablaDeMultiplicar::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-tablaDeMultiplicar-Debug-b009bea6b81fa3701de2.json",
+					"name" : "tablaDeMultiplicar",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/Chris/Desktop/MemoryCard/Desarrollo Software Ituzaing\u00f3/Primer a\u00f1o/Introducci\u00f3n a la Programaci\u00f3n/IntroduccionALaProgramacion/ejercicios-09-05/cmake-build-debug",
+		"source" : "C:/Users/Chris/Desktop/MemoryCard/Desarrollo Software Ituzaing\u00f3/Primer a\u00f1o/Introducci\u00f3n a la Programaci\u00f3n/IntroduccionALaProgramacion/ejercicios-09-05"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

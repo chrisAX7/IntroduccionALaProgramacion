@@ -1,0 +1,14 @@
+# ninja log v6
+99	230	7686148219424050	perimetroRectangulo.exe	ebfe8b28c1242891
+4	276	7686167298851864	build.ninja	28b544144512380b
+97	232	7686138125469002	mayorDeTres.exe	a87fda90b3ba29aa
+6	162	7686124687433949	CMakeFiles/ejercicios_09_05.dir/ejercicio03.c.obj	84505ce57dc209a3
+5	94	7686104078498629	CMakeFiles/ejercicios_09_05.dir/ejercicio01.c.obj	c706aa3221715d28
+107	238	7686140889811056	bisiesto.exe	d9ba51c80a8e3d75
+4	115	7686125305374179	ejercicios_09_05.exe	6050eb3a862773b3
+6	106	7686140888803889	CMakeFiles/bisiesto.dir/ejercicio04.c.obj	f3f2c0b987ef1d7d
+6	96	7686138124561420	CMakeFiles/mayorDeTres.dir/ejercicio03.c.obj	4f19da6f037ea86a
+6	99	7686148218486535	CMakeFiles/perimetroRectangulo.dir/ejercicio05.c.obj	699ebf5954682473
+6	85	7686154496985366	CMakeFiles/numeroPositivo.dir/ejercicio06.c.obj	a896d5bcf8e95a5f
+85	202	7686154497783240	numeroPositivo.exe	57ee16b4999d0fb6
+5	345	7686167298851864	build.ninja	28b544144512380b

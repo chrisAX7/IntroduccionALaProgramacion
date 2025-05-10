@@ -1,0 +1,9 @@
+C:/Users/Chris/Desktop/MemoryCard/Desarrollo Software Ituzaingó/Primer año/Introducción a la Programación/IntroduccionALaProgramacion/ejercicios-09-05/cmake-build-debug/CMakeFiles/ejercicios_09_05.dir
+C:/Users/Chris/Desktop/MemoryCard/Desarrollo Software Ituzaingó/Primer año/Introducción a la Programación/IntroduccionALaProgramacion/ejercicios-09-05/cmake-build-debug/CMakeFiles/tablaDeMultiplicar.dir
+C:/Users/Chris/Desktop/MemoryCard/Desarrollo Software Ituzaingó/Primer año/Introducción a la Programación/IntroduccionALaProgramacion/ejercicios-09-05/cmake-build-debug/CMakeFiles/mayorDeTres.dir
+C:/Users/Chris/Desktop/MemoryCard/Desarrollo Software Ituzaingó/Primer año/Introducción a la Programación/IntroduccionALaProgramacion/ejercicios-09-05/cmake-build-debug/CMakeFiles/bisiesto.dir
+C:/Users/Chris/Desktop/MemoryCard/Desarrollo Software Ituzaingó/Primer año/Introducción a la Programación/IntroduccionALaProgramacion/ejercicios-09-05/cmake-build-debug/CMakeFiles/perimetroRectangulo.dir
+C:/Users/Chris/Desktop/MemoryCard/Desarrollo Software Ituzaingó/Primer año/Introducción a la Programación/IntroduccionALaProgramacion/ejercicios-09-05/cmake-build-debug/CMakeFiles/numeroPositivo.dir
+C:/Users/Chris/Desktop/MemoryCard/Desarrollo Software Ituzaingó/Primer año/Introducción a la Programación/IntroduccionALaProgramacion/ejercicios-09-05/cmake-build-debug/CMakeFiles/factorial.dir
+C:/Users/Chris/Desktop/MemoryCard/Desarrollo Software Ituzaingó/Primer año/Introducción a la Programación/IntroduccionALaProgramacion/ejercicios-09-05/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Chris/Desktop/MemoryCard/Desarrollo Software Ituzaingó/Primer año/Introducción a la Programación/IntroduccionALaProgramacion/ejercicios-09-05/cmake-build-debug/CMakeFiles/rebuild_cache.dir

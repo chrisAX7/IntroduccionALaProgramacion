@@ -15,7 +15,8 @@
 					"source" : ".",
 					"targetIndexes" : 
 					[
-						0
+						0,
+						1
 					]
 				}
 			],
@@ -30,7 +31,8 @@
 					"name" : "ejercicios_en_c",
 					"targetIndexes" : 
 					[
-						0
+						0,
+						1
 					]
 				}
 			],
@@ -41,6 +43,13 @@
 					"id" : "ejercicios_en_c::@6890427a1f51a3e7e1df",
 					"jsonFile" : "target-ejercicios_en_c-Debug-c64d0a2e9c73be9d9136.json",
 					"name" : "ejercicios_en_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "sumarDosEnteros::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-sumarDosEnteros-Debug-0ede4732f0216ad5e93e.json",
+					"name" : "sumarDosEnteros",
 					"projectIndex" : 0
 				}
 			]

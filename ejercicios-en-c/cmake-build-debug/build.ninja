@@ -73,6 +73,39 @@ build ejercicios_en_c.exe: C_EXECUTABLE_LINKER__ejercicios_en_c_Debug CMakeFiles
   TARGET_IMPLIB = libejercicios_en_c.dll.a
   TARGET_PDB = ejercicios_en_c.exe.dbg
 
+# =============================================================================
+# Object build statements for EXECUTABLE target sumarDosEnteros
+
+
+#############################################
+# Order-only phony target for sumarDosEnteros
+
+build cmake_object_order_depends_target_sumarDosEnteros: phony || .
+
+build CMakeFiles/sumarDosEnteros.dir/ejercicio02.c.obj: C_COMPILER__sumarDosEnteros_unscanned_Debug C$:/Users/Chris/Desktop/MemoryCard/Desarrollo$ Software$ Ituzaingó/Primer$ año/Introducción$ a$ la$ Programación/IntroduccionALaProgramacion/ejercicios-en-c/ejercicio02.c || cmake_object_order_depends_target_sumarDosEnteros
+  DEP_FILE = CMakeFiles\sumarDosEnteros.dir\ejercicio02.c.obj.d
+  FLAGS = -g -std=gnu11 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\sumarDosEnteros.dir
+  OBJECT_FILE_DIR = CMakeFiles\sumarDosEnteros.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target sumarDosEnteros
+
+
+#############################################
+# Link the executable sumarDosEnteros.exe
+
+build sumarDosEnteros.exe: C_EXECUTABLE_LINKER__sumarDosEnteros_Debug CMakeFiles/sumarDosEnteros.dir/ejercicio02.c.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\sumarDosEnteros.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = sumarDosEnteros.exe
+  TARGET_IMPLIB = libsumarDosEnteros.dll.a
+  TARGET_PDB = sumarDosEnteros.exe.dbg
+
 
 #############################################
 # Utility command for edit_cache
@@ -101,6 +134,8 @@ build rebuild_cache: phony CMakeFiles/rebuild_cache.util
 
 build ejercicios_en_c: phony ejercicios_en_c.exe
 
+build sumarDosEnteros: phony sumarDosEnteros.exe
+
 # =============================================================================
 # Folder targets.
 
@@ -116,7 +151,7 @@ build codegen: phony
 #############################################
 # Folder: C:/Users/Chris/Desktop/MemoryCard/Desarrollo Software Ituzaingó/Primer año/Introducción a la Programación/IntroduccionALaProgramacion/ejercicios-en-c/cmake-build-debug
 
-build all: phony ejercicios_en_c.exe
+build all: phony ejercicios_en_c.exe sumarDosEnteros.exe
 
 # =============================================================================
 # Built-in targets

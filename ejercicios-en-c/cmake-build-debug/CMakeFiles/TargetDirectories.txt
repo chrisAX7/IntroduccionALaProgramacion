@@ -1,3 +1,4 @@
 C:/Users/Chris/Desktop/MemoryCard/Desarrollo Software Ituzaingó/Primer año/Introducción a la Programación/IntroduccionALaProgramacion/ejercicios-en-c/cmake-build-debug/CMakeFiles/ejercicios_en_c.dir
+C:/Users/Chris/Desktop/MemoryCard/Desarrollo Software Ituzaingó/Primer año/Introducción a la Programación/IntroduccionALaProgramacion/ejercicios-en-c/cmake-build-debug/CMakeFiles/sumarDosEnteros.dir
 C:/Users/Chris/Desktop/MemoryCard/Desarrollo Software Ituzaingó/Primer año/Introducción a la Programación/IntroduccionALaProgramacion/ejercicios-en-c/cmake-build-debug/CMakeFiles/edit_cache.dir
 C:/Users/Chris/Desktop/MemoryCard/Desarrollo Software Ituzaingó/Primer año/Introducción a la Programación/IntroduccionALaProgramacion/ejercicios-en-c/cmake-build-debug/CMakeFiles/rebuild_cache.dir
